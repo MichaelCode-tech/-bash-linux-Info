@@ -1,6 +1,5 @@
 #!/bin/bash
-#tool created by Jdhdx
-#https://github.com/Jdhdx
+#tool created by MichaelCode-tech
 
 Main_Menu(){
 while true; do
