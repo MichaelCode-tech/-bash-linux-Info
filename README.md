@@ -9,7 +9,7 @@
 ## Installation Instructions
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/Jdhdx/bash-linux-Info.git  
+   git clone https://github.com/MichaelCode-tech/-bash-linux-Info.git  
    ```  
 2. Navigate to the directory:  
    ```bash  
